@@ -10,9 +10,9 @@
 ### 构建Docker镜像
 
 ```
-git clone https://github.com/yjcyxky/rCore-Tutorial-v3.git
+git clone https://github.com/yjcyxky/rcore-tutorial-v3.git
 
-cd rCore-Tutorial-v3
+cd rcore-tutorial-v3
 
 make build-docker
 ```
